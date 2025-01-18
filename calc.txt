@@ -11,4 +11,7 @@ return x-y;
 public int mult(int a, int b){
 return x*y;
 }
+public double div(int a, int b){
+return a/b;
+}
 }
