@@ -7,3 +7,5 @@ TASK1:
 			int a=10, b=20;
 		}
 	}
+TASK2: Addition Function Enabled
+	
